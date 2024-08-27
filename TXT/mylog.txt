@@ -2,4 +2,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L10 Pembuatan Github Repo
+ZCZC W00 30 L10 GitHub / Assignment related
