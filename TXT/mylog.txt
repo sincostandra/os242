@@ -2,15 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W01 200 L02 class offline related
+ZCZC W01 45 L06 GSGSCICILTT how to copy-paste in virtualbox
+ZCZC W01 120 L11 Assignment 1 related
+ZCZC W01 30 L01 Forum in scele related
+ZCZC W01 45 L05 prep quiz + quiz
+ZCZC W01 45 L08 Assignment chat related
+ZCZC W01 15 L41 Update Log
+
 ZCZC W00 30 L09 GitHub / Assignment related
 ZCZC W00 100 L02 class related
 ZCZC W00 45 L61 Install Virtual Box and fine tune
 ZCZC W00 30 L31 Linux related
 ZCZC W00 45 L05 Study for quiz W0
 ZCZC W00 10 L41 Update Log
-
-ZCZC W01 200 L02 class offline related
-ZCZC W01 45 L06 GSGSCICILTT how to copy-paste in virtualbox
-ZCZC W01 90 L11 Assignment 1 related
-ZCZC W01 30 L01 Forum in scele related
-ZCZC W01 15 L41 Update Log
