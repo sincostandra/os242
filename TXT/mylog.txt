@@ -2,6 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W02 100 L02 class related
+ZCZC W02 160 L11 Assignment related
+ZCZC W02 45 L08 Assignment chat related
+ZCZC W02 60 L01 Popquiz scele related
+ZCZC W02 45 L05 prep quiz + quiz related
+ZCZC W02 10 L41 Update Log
+
+
 ZCZC W01 200 L02 class offline related
 ZCZC W01 45 L06 GSGSCICILTT how to copy-paste in virtualbox
 ZCZC W01 120 L11 Assignment 1 related
