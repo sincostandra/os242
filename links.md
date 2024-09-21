@@ -7,3 +7,6 @@ permalink: LINKS/
 [Vim Cheatsheet](https://vim.rtorr.com/) - How to use Vim  
 [Cyber Security](https://youtu.be/U_P23SqJaDc) - Cyber Security Course  
 [C Lang](https://www.youtube.com/watch?v=U3aXWizDbQ4) - When u only have 100 seconds to learn C Lang  
+[File and Fuse](https://www.youtube.com/watch?v=PBkZynNIZWk) - Youtube video about file system and fuse  
+[Bash Scripting](https://www.youtube.com/watch?v=tK9Oc6AEnR4) - "I can't use bash" here is the tutorial
+ 
