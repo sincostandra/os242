@@ -4,7 +4,7 @@
 
 ZCZC W03 100 L02 class related
 ZCZC W03 120 L11 Assignment related
-ZCZC W03 45 L08 Assignment chat related
+ZCZC W03 60 L08 Assignment chat related
 ZCZC W03 75 L01 Popquiz scele related
 ZCZC W03 10 L41 Update Log
 
