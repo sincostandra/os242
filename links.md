@@ -8,5 +8,6 @@ permalink: LINKS/
 [Cyber Security](https://youtu.be/U_P23SqJaDc) - Cyber Security Course  
 [C Lang](https://www.youtube.com/watch?v=U3aXWizDbQ4) - When u only have 100 seconds to learn C Lang  
 [File and Fuse](https://www.youtube.com/watch?v=PBkZynNIZWk) - Youtube video about file system and fuse  
-[Bash Scripting](https://www.youtube.com/watch?v=tK9Oc6AEnR4) - "I can't use bash" here is the tutorial
- 
+[Bash Scripting](https://www.youtube.com/watch?v=tK9Oc6AEnR4) - "I can't use bash" here is the tutorial  
+[C lore & basic tutor](https://www.javatpoint.com/history-of-c-language) - Complete lore of C Lang  
+[C Pointers](https://youtu.be/2ybLD6_2gKM?si=P29XKouvqq9aBDVc) - About * pointers  
