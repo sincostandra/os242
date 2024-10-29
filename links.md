@@ -13,4 +13,5 @@ permalink: LINKS/
 [C Pointers](https://youtu.be/2ybLD6_2gKM?si=P29XKouvqq9aBDVc) - About * pointers  
 [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) About Virtual Memory
 [Makefile](https://makefiletutorial.com/) "How do i run this C script?"  
-
+[Fork](https://www.geeksforgeeks.org/fork-system-call/) "Fork explanation"  
+[Child Process](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/) "How to create and kill child ... in C"
