@@ -11,7 +11,7 @@ permalink: LINKS/
 [Bash Scripting](https://www.youtube.com/watch?v=tK9Oc6AEnR4) - "I can't use bash" here is the tutorial  
 [C lore & basic tutor](https://www.javatpoint.com/history-of-c-language) - Complete lore of C Lang  
 [C Pointers](https://youtu.be/2ybLD6_2gKM?si=P29XKouvqq9aBDVc) - About * pointers  
-[Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) About Virtual Memory
+[Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) About Virtual Memory  
 [Makefile](https://makefiletutorial.com/) "How do i run this C script?"  
 [Fork](https://www.geeksforgeeks.org/fork-system-call/) "Fork explanation"  
 [Child Process](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/) "How to create and kill child ... in C"
