@@ -14,4 +14,5 @@ permalink: LINKS/
 [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) About Virtual Memory  
 [Makefile](https://makefiletutorial.com/) "How do i run this C script?"  
 [Fork](https://www.geeksforgeeks.org/fork-system-call/) "Fork explanation"  
-[Child Process](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/) "How to create and kill child ... in C"
+[Child Process](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/) "How to create and kill child ... in C"  
+[Sync](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) "Sync"  
