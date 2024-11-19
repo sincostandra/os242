@@ -16,4 +16,5 @@ permalink: LINKS/
 [Fork](https://www.geeksforgeeks.org/fork-system-call/) "Fork explanation"  
 [Child Process](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/) "How to create and kill child ... in C"  
 [Sync](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) "Sync"  
-[LFS](https://www.youtube.com/watch?v=A0tnO3OB4AY&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=12) "LFS (Linux From Scratch / LiFe Safer) playlist tutorial"   
+[LFS](https://www.youtube.com/watch?v=A0tnO3OB4AY&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=12) "LFS (Linux From Scratch / LiFe Safer) playlist tutorial"  
+[Log] (https://os.vlsm.org/Log/) "kinda help me to update myrank.txt"  
