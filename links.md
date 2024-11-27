@@ -18,3 +18,5 @@ permalink: LINKS/
 [Sync](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) "Sync"  
 [LFS](https://www.youtube.com/watch?v=A0tnO3OB4AY&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=12) "LFS (Linux From Scratch / LiFe Safer) playlist tutorial"  
 [Log] (https://os.vlsm.org/Log/) "kinda help me to update myrank.txt"  
+[LFS Final Chap](https://www.youtube.com/watch?v=ReIeiTqYTGc&t=939s) "4 hours straight of my final battle in this course"  
+

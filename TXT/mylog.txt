@@ -2,6 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W10 100 L02 class related
+ZCZC W10 800 L11 Assignment related
+ZCZC W10 60 L08 Assignment chat related
+ZCZC W10 35 L05 prep quiz + quiz related
+ZCZC W10 90 L01 Popquiz scele
+ZCZC W10 15 L41 Update Log  
+
 ZCZC W09 100 L02 class related
 ZCZC W09 400 L11 Assignment related
 ZCZC W09 60 L08 Assignment chat related
